@@ -1,0 +1,9 @@
+.vscode/
+
+.idea/
+
+.config/
+
+.conda/
+
+.ipynb_checkpoints/
